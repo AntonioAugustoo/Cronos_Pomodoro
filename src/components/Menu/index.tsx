@@ -19,7 +19,7 @@ export function Menu(){
 
    event.preventDefault(); //nao vai seguir o link
 
-   console.log('Clicou no botão!', Date.now());
+   
 
 
    setTheme(prevTheme => {
