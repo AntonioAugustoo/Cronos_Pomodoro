@@ -29,9 +29,8 @@ Fluxo aplicado no projeto:
 O projeto esta publicado na Vercel.
 
 - Deploy: Vercel
-- URL de producao: `adicione-aqui-o-link-da-sua-vercel` 
+- URL de producao: `cronos-pomodoro-rho.vercel.app` 
 
-Se voce ja tiver a URL final, substitua o valor acima pelo dominio real.
 
 ## Stack Tecnologica
 
